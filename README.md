@@ -1,6 +1,10 @@
 
 # Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
 
+# NAME : V G SAIRAIMA
+# REGISTRATION NO : 212225040359
+# DATE : 2.11.26
+
 .     Experiment:
 Develop a comprehensive report for the following exercises:
 
@@ -86,5 +90,6 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 
 # Output:
+[EXP_1_Prompt_Engineering (1).pdf](https://github.com/user-attachments/files/34261793/EXP_1_Prompt_Engineering.1.pdf)
 
 # Result:
